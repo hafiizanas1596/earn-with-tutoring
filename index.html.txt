@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Earn with Online Tutoring | Learn & Grow</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
+        header { background: #4CAF50; color: white; padding: 15px; font-size: 24px; }
+        .container { padding: 20px; }
+        .btn { background: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+        footer { background: #333; color: white; padding: 10px; position: fixed; width: 100%; bottom: 0; }
+        .services { background: #f4f4f4; padding: 20px; }
+    </style>
+</head>
+<body>
+    <header>Start Earning with Online Tutoring</header>
+    <div class="container">
+        <h2>How You Can Earn</h2>
+        <div class="services">
+            <h3>📚 Online Tutoring</h3>
+            <p>Offer 1-on-1 lessons in Biology, Chemistry, and Physics.</p>
+            <a href="#contact" class="btn">Book a Session</a>
+        </div>
+        <div class="services">
+            <h3>🎥 Sell Recorded Courses</h3>
+            <p>Upload pre-recorded lessons & charge students for access.</p>
+            <a href="#contact" class="btn">Start Selling</a>
+        </div>
+        <div class="services">
+            <h3>📄 Downloadable Notes</h3>
+            <p>Provide premium study guides & notes for a fee.</p>
+            <a href="#contact" class="btn">Get Notes</a>
+        </div>
+        <div class="services">
+            <h3>💰 Affiliate Marketing</h3>
+            <p>Recommend books & study tools and earn commissions.</p>
+            <a href="#contact" class="btn">Join Now</a>
+        </div>
+    </div>
+    <div id="contact" class="container">
+        <h2>Contact Me</h2>
+        <p>Email: anaskamboh1596@gmail.com</p>
+        <p>WhatsApp: +923262630259</p>
+        <h3>💳 Payment via JazzCash</h3>
+        <p>JazzCash Number: +923262630259</p>
+        <p>Send payment and share the receipt for confirmation.</p>
+    </div>
+    <footer>&copy; 2025 Online Tutoring - Start Earning Today</footer>
+</body>
+</html>
